@@ -1,6 +1,6 @@
 {
   "name": "style-paths",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Find the paths of every bower_component with a .sass or .scss file (for use with sass' includePath option)",
   "main": "index.js",
   "scripts": {

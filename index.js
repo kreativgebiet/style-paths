@@ -3,7 +3,7 @@ var path = require('path');
 var stylePaths = module.exports = function(ext) {
   ext = typeof(ext) !== undefined ? ext : ['scss', 'sass'];
 
-  return lib.ext(ex).files.map(function(val) {
+  return lib.ext(ext).files.map(function(val) {
     return path.dirname(val);
   });
 };
