@@ -1,4 +1,4 @@
-# style-paths
+# style-paths ![](https://img.shields.io/npm/v/npm.svg) ![](https://img.shields.io/david/iduuck/style-paths.svg)
 
 Find the paths of every bower_component with a .sass or .scss file (for use with sass' includePath option)
 
