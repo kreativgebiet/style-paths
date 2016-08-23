@@ -1,3 +1,5 @@
+<img src="http://static.kreativgebiet.com/deprecation-banner.svg" style="width: 100%" alt="Deprecation Warning" />
+
 # style-paths [![](https://img.shields.io/npm/v/npm.svg)](https://www.npmjs.com/package/style-paths) [![](https://img.shields.io/david/iduuck/style-paths.svg)](https://david-dm.org/iduuck/style-paths) [![Code Climate](https://codeclimate.com/github/iDuuck/style-paths/badges/gpa.svg)](https://codeclimate.com/github/iDuuck/style-paths)
 
 Find the paths of every bower_component with a .sass or .scss file (for use with sass' includePath option)
